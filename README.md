@@ -44,4 +44,4 @@ inventory_system/
 ## Author
 
 - **GitHub:** [github.com/sandipbeghaa](https://github.com/sandipbeghaa)
-- **Portfolio:** [sandipbeghaa.github.io](https://github.io)
+- **Portfolio:** [sandipbeghaa.github.io](https://sandipbeghaa.github.io/)
